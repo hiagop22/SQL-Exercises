@@ -45,34 +45,34 @@ The database used contains the following tables:
 ## Questions
 
 1. Retrieve the top 5 products with the highest total sales amount. Include the product name and the total sales amount.
-   - [Answer 1](answer1.sql): Your detailed answer.
+   - [Answer 1](answer_01.sql): Your detailed answer.
 
 2. For each year, find the month with the highest total sales amount. Display the year, month, and total sales.
-   - [Answer 2](answer2.sql): Your detailed answer.
+   - [Answer 2](answer_02.sql): Your detailed answer.
 
 3. Calculate the cumulative sum of sales (Quantidade * ValorUnitario) for each product over time. Display the product code, date, and cumulative sales along the days for each product.
-    - [Answer 3](answer3.sql): Your detailed answer.
+    - [Answer 3](answer_03.sql): Your detailed answer.
 
 4. List the top 3 salespersons who have made sales in the most distinct product categories. Include the salesperson code and the number of distinct categories.
-    - [Answer 4](answer4.sql): Your detailed answer.
+    - [Answer 4](answer_04.sql): Your detailed answer.
 
 5. Find the products that have experienced a sales increase of more than 50% from the previous month. Display the product code, month, and the percentage increase.
-    - [Answer 5](answer5.sql): Your detailed answer.
+    - [Answer 5](answer_05.sql): Your detailed answer.
 
 6.  Retrieve the customers who have made purchases in the year 2022. Display the customer code and name.
-    - [Answer 6](answer6.sql): Your detailed answer.
+    - [Answer 6](answer_06.sql): Your detailed answer.
 
 7. Calculate the average time between consecutive purchases for each customer. Display the customer code and the average time in days.
-    - [Answer 7](answer7.sql): Your detailed answer.
+    - [Answer 7](answer_07.sql): Your detailed answer.
 
 8. Identify the products that have not been that have not been sold in the last 6 months since the most recent purchase. Display the product code and name.
-    - [Answer 8](answer8.sql): Your detailed answer.
+    - [Answer 8](answer_08.sql): Your detailed answer.
 
 9. Find the customers who have made at least two consecutive purchases of the same product. Display the customer code, product code, and purchase dates.
-    - [Answer 9](answer9.sql): Your detailed answer.
+    - [Answer 9](answer_09.sql): Your detailed answer.
 
 10. List the products that have the highest average sales value (sales amount divided by quantity) in each product category. Display the category, product code, and average sales value.
-    - [Answer 10](answer10.sql): Your detailed answer.
+    - [Answer 10](answer_10.sql): Your detailed answer.
 
 
 ...
