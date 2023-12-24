@@ -1,4 +1,4 @@
--- Identify the products that have not been that have not been sold in the last 6 months since the most recent purchase. 
+-- Identify the products that have not been sold in the last 6 months since the most recent purchase. 
 -- Display the product code and name.
 
 create or replace view MostRecentSold as (
