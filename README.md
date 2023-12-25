@@ -75,7 +75,6 @@ The database used contains the following tables:
     - [Answer 10](answer_10.sql)
 
 
-...
 
 ## Folder Structure
 
