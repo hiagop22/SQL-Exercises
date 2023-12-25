@@ -76,13 +76,13 @@ The database used contains the following tables:
 
 
 
-## Folder Structure
+<!-- ## Folder Structure
 
 - **SQL_Practice/**
   - answer1.sql
   - answer2.sql
   - answer3.sql
-  - ...
+  - ... -->
 
 Feel free to explore each question and its corresponding answer to understand my approach to SQL problem-solving.
 
